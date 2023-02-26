@@ -1,2 +1,2 @@
-# Termux-dotfile-backups-zsh-bash-nano-etc-
+# Termux-dotfile-backups-scripts
 my Termux home dotfiles backups
